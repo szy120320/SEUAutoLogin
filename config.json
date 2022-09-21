@@ -1,7 +1,7 @@
 {
     "user": {
-        "cardnum": "220224557",
-        "password": "082813"
+        "cardnum": "一卡通账号",
+        "password": "密码"
     },
     "dailyReport": {
         "school": {
@@ -15,7 +15,7 @@
             "LOCATION_COUNTY_CODE": "",
             "LOCATION_COUNTY_CODE_DISPLAY": "",
             "DZ_SZXQ": "002",
-            "DZ_SZXQ_DISPLAY": "苏州校区"
+            "DZ_SZXQ_DISPLAY": "九龙湖校区"
         },
         "home": {
             "DZ_JSDTCJTW": 36.555,
